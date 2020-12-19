@@ -1,0 +1,26 @@
+<h2>Agregar inmueble</h2>
+<hr>
+<form [formGroup] = "formGroup">
+    <div class="form-group">
+        <label for="matriculaInmueble">Matricula inmobiliaria:</label>
+        <input class="form-control" type="text" name="matriculaInmueble" id="matriculaInmueble" formControlName="matriculaInmueble">
+    </div>
+    <div class="form-group">
+        <label for="identificacionArrendatario">Identificacion arrendatario:</label>
+        <input class="form-control" type="text" name="identificacionArrendatario" id="identificacionArrendatario" formControlName="identificacionArrendatario">
+    </div>
+    <div class="form-group">
+        <label for="nombreArrendatario">Nombre arrendatario:</label>
+        <input class="form-control" type="text" name="nombreArrendatario" id="nombreArrendatario" formControlName="nombreArrendatario">
+    </div>
+    <div class="form-group">
+        <label for="mesesAlquiler">Meses de alquiler:</label>
+        <input class="form-control" type="number" name="mesesAlquiler" id="mesesAlquiler" formControlName="mesesAlquiler">
+    </div>
+    <div class="form-group">
+        <label for="valorDeposito">Valor deposito:</label>
+        <input class="form-control" type="number" name="valorDeposito" id="valorDeposito" formControlName="valorDeposito">
+    </div>
+
+    <button class="btn btn-success" style="float: right;" (click)="onSubmit()" [disabled]="formGroup.invalid">Agregar</button>
+</form>

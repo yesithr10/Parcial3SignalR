@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0nG/nwvaaXLR5JkJuR69F17nGooSl6eAzezIIbUs9ceIEJXAL6utkRVkUX+qu5E33ZE1dl8xwHwZQprE7PXSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ORLAN\\Desktop\\Para el parcial 3\\Parcial3Pweb-main\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ORLAN\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

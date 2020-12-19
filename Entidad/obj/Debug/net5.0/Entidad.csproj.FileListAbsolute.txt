@@ -1,0 +1,36 @@
+C:\Users\Ghost\Desktop\orojano\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\Ghost\Desktop\orojano\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\Ghost\Desktop\orojano\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\Ghost\Desktop\orojano\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\Ghost\Desktop\orojano\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\Ghost\Desktop\orojano_1\orojano\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.csprojAssemblyReference.cache
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\ORLAN\Desktop\Para el parcial 3\Parcial3\Entidad\obj\Debug\net5.0\Entidad.pdb

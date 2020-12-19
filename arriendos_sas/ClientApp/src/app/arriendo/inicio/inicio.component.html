@@ -1,0 +1,57 @@
+<br><br>
+<div class="agregar">
+    <button class="btn btn-success" style="float: right;" [routerLink]="['/agregar-arriendo']">Agregar arriendo</button>
+    <button class="btn btn-primary" style="float: left;" [routerLink]="['/agregar-inmueble']">Agregar inmueble</button>
+</div>
+<br><br>
+<div class="busqueda">
+    <label for="busqueda">Filtro por matricula de inmueble:</label>
+    <input class="form-control" type="text" name="busuqeda" id="busqueda" [(ngModel)]="busqueda">
+</div>
+<div class="inmuebles">
+    <h1>INMUEBLES</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Matricula inmobiliaria</th>
+                <th>Dirección</th>
+                <th>Valor arriendo</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let inmueble of inmuebles | filtroInmueble:busqueda; index as i">
+                <th>{{ i + 1 }}</th>
+                <th>{{ inmueble.matriculaInmobiliaria }}</th>
+                <th>{{ inmueble.direccion }}</th>
+                <th>{{ inmueble.valorArriendo }}</th>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<hr>
+<div class="arrendamientos">
+    <h1>ARRIENDOS</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Matricula inmueble</th>
+                <th>Identificación de arrendatario</th>
+                <th>Nombre del arrendatario</th>
+                <th>Meses de alquiler</th>
+                <th>Valor del deposito</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let arriendo of arriendos | filtroArriendo:busqueda; index as i">
+                <th>{{ i + 1 }}</th>
+                <th>{{ arriendo.matriculaInmueble }}</th>
+                <th>{{ arriendo.identificacionArrendatario }}</th>
+                <th>{{ arriendo.nombreArrendatario }}</th>
+                <th>{{ arriendo.mesesAlquiler }}</th>
+                <th>{{ arriendo.valorDeposito }}</th>
+            </tr>
+        </tbody>
+    </table>
+</div>
